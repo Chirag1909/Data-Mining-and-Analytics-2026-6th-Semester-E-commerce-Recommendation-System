@@ -1,0 +1,7 @@
+data/
+notebooks/data/
+*.csv
+.venv/
+__pycache__/
+*.pyc
+*.joblib
